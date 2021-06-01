@@ -6,7 +6,7 @@ I'm learning Fullstack <img src="img/javascript.svg" alt="javascript" width="30"
 
 <img src="img/linkedin.svg" alt="linkedin" width="30"/> [LinkedIn](https://www.linkedin.com/in/bchoron/)
 
-## Skills
+## Skills :hammer_and_wrench:
 
 ...in progress
 
