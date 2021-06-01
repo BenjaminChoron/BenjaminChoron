@@ -16,9 +16,9 @@ I'm learning Fullstack <img src="img/javascript.svg" alt="javascript" width="30"
 
 ## Skills
 
-...in progress
-
 <div align="center">
+
+...in progress
 
 <img src="img/html-5.svg" alt="html" width="30px"/> <img src="img/css.svg" alt="css" width="30px"/> <img src="img/sass.svg" alt="sass" width="30px"/> <img src="img/javascript.svg" alt="javascript" width="30px"/> <img src="img/git.svg" alt="git" width="30px"/> <img src="img/github.svg" alt="github" width="30px"/>
 
