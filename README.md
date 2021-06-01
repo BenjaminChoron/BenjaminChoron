@@ -6,17 +6,11 @@ FrontEnd enthusiast 🤩
 
 <div align="center">
 
-<img src="img/www.svg" alt="html" width="30"/>
-
-[Portfolio](https://www.benjamin-choron.fr/)
-
-<img src="img/linkedin.svg" alt="linkedin" width="30"/>
-
-[LinkedIn](https://www.linkedin.com/in/bchoron/)
+<img src="img/www.svg" alt="html" width="30"/> [ [Portfolio](https://www.benjamin-choron.fr/) ] <img src="img/linkedin.svg" alt="linkedin" width="30"/> [ [LinkedIn](https://www.linkedin.com/in/bchoron/) ]
 
 </div>
 
-## Skills
+## Skills 🛠️
 
 <div align="center">
 
@@ -26,7 +20,7 @@ FrontEnd enthusiast 🤩
 
 </div>
 
-## About me
+## About me 🧔🏻
 
 * I ❤️ and play basketball 🏀
 * My life goal is to live in Canada 🇨🇦
