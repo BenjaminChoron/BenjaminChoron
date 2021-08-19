@@ -1,27 +1,34 @@
 # Hi, I'm Benjamin 👋
 
-I'm learning Fullstack <img src="img/javascript.svg" alt="javascript" width="30"/> web development at [O'clock](https://oclock.io/).
+I'm learning Fullstack Javascript web development at [O'clock](https://oclock.io/).
 
-FrontEnd enthusiast 🤩
+Frontend enthusiast 🤩 and Backend interested 🤔
 
-<div align="center">
+[![Benjamin's GitHub stats](https://github-readme-stats.vercel.app/api?username=BenjaminChoron)](https://github.com/BenjaminChoron)
 
-<img src="img/www.svg" alt="html" width="30"/> [ [Portfolio](https://www.benjamin-choron.fr/) ] <img src="img/linkedin.svg" alt="linkedin" width="30"/> [ [LinkedIn](https://www.linkedin.com/in/bchoron/) ]
+## Contact me <img src="https://img.icons8.com/fluency/48/000000/edit-mailbox.png"/>
 
-</div>
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/bchoron/)
+[<img src="https://img.icons8.com/color/48/000000/apple-mail.png"/>](mailto:benjamin.choron@outlook.com)
 
 ## Skills 🛠️
 
-<div align="center">
+![HTML](https://img.icons8.com/color/48/000000/html-5--v1.png)
+![CSS](https://img.icons8.com/color/48/000000/css3.png)
+![Sass](https://img.icons8.com/color/48/000000/sass.png)
+![Javascript](https://img.icons8.com/color/48/000000/javascript--v1.png)
+![Vue.js](https://img.icons8.com/color/48/000000/vue-js.png)
 
-...in progress
+![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
+![API](https://img.icons8.com/color/48/000000/api-settings.png)
+![PostgreSQL](https://img.icons8.com/color/48/000000/postgreesql.png)
 
-<img src="img/html-5.svg" alt="html" width="30px"/> <img src="img/css.svg" alt="css" width="30px"/> <img src="img/sass.svg" alt="sass" width="30px"/> <img src="img/javascript.svg" alt="javascript" width="30px"/> <img src="img/git.svg" alt="git" width="30px"/> <img src="img/github.svg" alt="github" width="30px"/>
-
-</div>
-
+![NPM](https://img.icons8.com/color/48/000000/npm.png)
+![Git](https://img.icons8.com/color/48/000000/git.png)
+![Github](https://img.icons8.com/fluency/48/000000/github.png)
+![VS Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
+ 
 ## About me 🧔🏻
 
 * I ❤️ and play basketball 🏀
-* My life goal is to live in Canada 🇨🇦
 * Can't stand a day without 🎵
