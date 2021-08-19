@@ -6,7 +6,7 @@ Frontend enthusiast 🤩 and Backend interested 🤔
 
 [![Benjamin's GitHub stats](https://github-readme-stats.vercel.app/api?username=BenjaminChoron)](https://github.com/BenjaminChoron)
 
-## Contact me <img src="https://img.icons8.com/fluency/48/000000/edit-mailbox.png"/>
+## Contact me 📫
 
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/bchoron/)
 [<img src="https://img.icons8.com/color/48/000000/apple-mail.png"/>](mailto:benjamin.choron@outlook.com)
