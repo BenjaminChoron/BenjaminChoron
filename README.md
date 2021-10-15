@@ -1,8 +1,6 @@
 # Hi, I'm Benjamin 👋
 
-I'm learning Fullstack Javascript web development at [O'clock](https://oclock.io/).
-
-Frontend enthusiast 🤩 and Backend interested 🤔
+I'm a Fullstack Javascript web developer
 
 [![Benjamin's GitHub stats](https://github-readme-stats.vercel.app/api?username=BenjaminChoron)](https://github.com/BenjaminChoron)
 
