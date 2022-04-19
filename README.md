@@ -17,7 +17,7 @@ I'm a Fullstack Javascript web developer
 ![Javascript](https://img.icons8.com/color/48/000000/javascript--v1.png)
 ![Vue.js](https://img.icons8.com/color/48/000000/vue-js.png)
 
-![Nest](https://seeklogo.com/images/N/nestjs-logo-09342F76C0-seeklogo.com.png)
+<img src="https://seeklogo.com/images/N/nestjs-logo-09342F76C0-seeklogo.com.png" width="48px">
 ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
 ![API](https://img.icons8.com/color/48/000000/api-settings.png)
 ![PostgreSQL](https://img.icons8.com/color/48/000000/postgreesql.png)
