@@ -8,6 +8,7 @@ After 10 years as a social worker, I chose to change my professional horizon. I 
 
 *   🌍  I'm based in Paris and Auxerre
 *   ✉️  You can contact me at [benjamin.choron@outlook.com](mailto:benjamin.choron@outlook.com)
+
 <a href="https://www.github.com/BenjaminChoron" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/BenjaminChoron?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
