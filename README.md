@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-After 10 years as a social worker, I chose to change my professional horizon. I followed O'clock's six months training and got my first fullstack developer job at Transway, an ecomobility valuation company. It's been two and I become more and more found of front-end development. I really like Vue.js framework for its performance and usability.
+After 10 years as a social worker, I chose to change my professional horizon. I followed O'clock's six months training and got my first fullstack developer job at Transway, an ecomobility valuation company.
 
 *   🌍  I'm based in Paris and Auxerre
 *   ✉️  You can contact me at [benjamin.choron@outlook.com](mailto:benjamin.choron@outlook.com)
