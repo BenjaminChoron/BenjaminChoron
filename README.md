@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Fullstack Developer
 -------------
 
-After 10 years as a social worker, I chose to change my professional horizon. I followed O'clock's six months training and got my first fullstack developer job at Transway, an ecomobility valuation company.
+After nearly a decade in social work, I transitioned to web development three years ago. With a diverse experience, great curiosity, and a genuine interest in the tech field, I take great pleasure in designing, maintaining, and evolving the projects I work on.
 
 *   🌍  I'm based in Paris and Auxerre
 *   ✉️  You can contact me at [benjamin.choron@outlook.com](mailto:benjamin.choron@outlook.com)
