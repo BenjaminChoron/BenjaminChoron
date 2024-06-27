@@ -1,7 +1,7 @@
 Hi 👋 My name is Benjamin Choron
 ================================
 
-Software Engineer
+Full-stack Developer
 -----------------
 
 After nearly a decade in social work, I transitioned to web development three years ago. With a diverse experience, great curiosity, and a genuine interest in the tech field, I take great pleasure in designing, maintaining, and evolving the projects I work on.
